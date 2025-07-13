@@ -1,0 +1,7 @@
+{
+  "tailwindCSS.config": "./tailwind.config.js",
+  "tailwindCSS.experimental.classRegex": [
+    ["class=\\\"([^\"]*)\\\"", "class"],
+    ["className=\\\"([^\"]*)\\\"", "className"]
+  ]
+}
