@@ -5,11 +5,11 @@ import App from './App.jsx'
 import { BrowserRouter } from 'react-router-dom'
 import PlayerContextProvider from './Context/PlayerContext.jsx'
 import ToastProvider from './Context/ToastContext.jsx'
-import ThemeProvider from './Context/ThemeContext.jsx'
+
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <ThemeProvider>
+
       <BrowserRouter>
         <PlayerContextProvider>
           <ToastProvider>
@@ -17,6 +17,6 @@ createRoot(document.getElementById('root')).render(
           </ToastProvider>
         </PlayerContextProvider>
       </BrowserRouter>
-    </ThemeProvider>
+
   </StrictMode>,
 )
