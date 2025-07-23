@@ -15,12 +15,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-🔗 **Live Site**: [https://your-netlify-link.netlify.app](https://your-netlify-link.netlify.app)  
-📂 **GitHub Repository**: [https://github.com/your-username/spotify-reactjs-clone](https://github.com/your-username/spotify-reactjs-clone)
-
----
 
 ## 📌 Project Overview
 
@@ -119,22 +113,12 @@ npm run dev
 
 ---
 
-## 📸 UI Preview
-
-> *(Add screenshots or a short demo GIF here)*
-> Example placeholder:
-> ![Spotify Clone Preview](./preview.png)
-
----
-
-
-
 ## 👨‍💻 Author
 
 **Pranav Thorat**
-📧 [Email](mailto:pranavthoratofficial@gmail.com)
-🐙 [GitHub](https://github.com/PranavThorat-dev)
-🔗 [LinkedIn](https://www.linkedin.com/in/pranav-thorat)
+📧 [Email](mailto:pranavthorat95@gmail.com)
+🐙 [GitHub](https://github.com/PranavThorat1432)
+🔗 [LinkedIn](https://www.linkedin.com/in/curiouspranavthorat/)
 
 ---
 
